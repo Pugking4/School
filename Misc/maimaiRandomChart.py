@@ -9,8 +9,6 @@ def addVertBar(filename):
         for line in lines:
             f.write(line + "|")
 
-level13 = 0
-level13_list = []
 level13plus = 0
 level13plus_list = []
 level14 = 0
@@ -25,6 +23,7 @@ allremaslevel = 0
 allremaslevel_list = []
 allmaslevel = 0
 allmaslevel_list = []
+lists = [level13plus_list,level14_list,level14plus_list,allmas_list,allmaslevel_list,allremas_list,allremaslevel_list]
 
 userInputFormat = input("Do you need to format the data? ")
 if userInputFormat == "Yes" or userInputFormat == "Y" or userInputFormat == "1":
@@ -47,12 +46,21 @@ with open("Misc\\maimaiRandomChartData\\AllMasLevelList.txt",encoding="utf8") as
     allmaslevel = f.read()
 
 level13plus_list = level13plus.strip("|").split("|")
-level14list = level14.strip("|").split("|")
+level14_list = level14.strip("|").split("|")
 level14plus_list = level14plus.strip("|").split("|")
 allmas_list = allmas.strip("|").split("|")
 allremas_list = allremas.strip("|").split("|")
 allremaslevel_list = allremaslevel.split("|")
 allmaslevel_list = allmaslevel.split("|")
+
+listlength = len(lists)
+i = 0
+
+for listlength in lists:
+    print(f"{lists[i]} has {len(lists[i])} items")
+    print(i)
+    i += 1
+print(len(lists))
 
 userInputLevel = input("What level do you want to play? ")
 if userInputLevel == "13+":
