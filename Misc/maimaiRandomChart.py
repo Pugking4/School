@@ -23,7 +23,7 @@ allremaslevel = 0
 allremaslevel_list = []
 allmaslevel = 0
 allmaslevel_list = []
-lists = [level13plus_list,level14_list,level14plus_list,allmas_list,allmaslevel_list,allremas_list,allremaslevel_list]
+#lists = [level13plus_list,level14_list,level14plus_list,allmas_list,allmaslevel_list,allremas_list,allremaslevel_list]
 
 userInputFormat = input("Do you need to format the data? ")
 if userInputFormat == "Yes" or userInputFormat == "Y" or userInputFormat == "1":
@@ -53,14 +53,16 @@ allremas_list = allremas.strip("|").split("|")
 allremaslevel_list = allremaslevel.split("|")
 allmaslevel_list = allmaslevel.split("|")
 
-listlength = len(lists)
-i = 0
-
-for listlength in lists:
-    print(f"{lists[i]} has {len(lists[i])} items")
-    print(i)
-    i += 1
-print(len(lists))
+#listlength = len(lists)
+#i = 0
+#print(f"{lists[2]} has {len(lists[2])} items")
+#for listlength in lists:
+#    print(f"{lists[i]} has {len(lists[i])} items")
+#    print(i)
+#    i += 1
+#print(len(lists))
+#print(len(level14plus_list))
+#print(lists(0))
 
 userInputLevel = input("What level do you want to play? ")
 if userInputLevel == "13+":
