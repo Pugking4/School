@@ -16,8 +16,6 @@ for c in userInput:
         else:
             i += 1
             #print(i) #debug
-    if i == 0:
-        print("True")
 #print(f"fail is at {fail}") #debug
 #print(f"fail thresh is {len(list)+1}") #debug
 if fail >= len(list)+1:

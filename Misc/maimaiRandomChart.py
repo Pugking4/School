@@ -8,7 +8,7 @@ def addVertBar(filename):
     with open(filepath, "w",encoding="utf8") as f:
         for line in lines:
             f.write(line + "|")
-
+i = 0
 level13plus = 0
 level13plus_list = []
 level14 = 0
@@ -23,12 +23,21 @@ allremaslevel = 0
 allremaslevel_list = []
 allmaslevel = 0
 allmaslevel_list = []
-#lists = [level13plus_list,level14_list,level14plus_list,allmas_list,allmaslevel_list,allremas_list,allremaslevel_list]
+#lists = ["level13plus_list","level14_list","level14plus_list","allmas_list","allmaslevel_list","allremas_list","allremaslevel_list"]
+#file_lists = ["13+List.txt","14List.txt","14+List.txt","AllMasList.txt","AllMasLevelList.txt","AllReMasList.txt","AllReMasLevelList.txt"]
 
 userInputFormat = input("Do you need to format the data? ")
 if userInputFormat == "Yes" or userInputFormat == "Y" or userInputFormat == "1":
     userInputFormatFN = input("What's the filename? ")
     addVertBar(userInputFormatFN)
+
+#while i < len(file_lists):
+#    with open(f"Misc\\maimaiRandomChartData\\{file_lists[i]}",encoding="utf8") as f:
+#        lists[i] = f.read()
+#    #print(lists[i])
+#    #print(file_lists[i])
+#    print(i)
+#    i += 1
 
 with open("Misc\\maimaiRandomChartData\\13+List.txt",encoding="utf8") as f:
     level13plus = f.read()
@@ -76,9 +85,11 @@ elif userInputLevel == "14+":
     #print(rand) debug
     #print(len(level14plus_list)) debug
     print(f"You should play '{level14plus_list[rand]}'")
-elif userInputLevel == "All ReMas":
+elif userInputLevel == "remas":
     rand = random.randint(0, len(allremas_list))
     print(f"You should play '{allremas_list[rand]}' which is level {allremaslevel_list[rand]}")
-elif userInputLevel == "All Mas":
+elif userInputLevel == "mas":
     rand = random.randint(0, len(allmas_list))
     print(f"You should play '{allmas_list[rand]}' which is level {allmaslevel_list[rand]}")
+else:
+    print("That is not a valid argument, please use 13+, 14, 14+, mas or remas.")
