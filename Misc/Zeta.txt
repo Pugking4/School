@@ -1,23 +1,23 @@
 1230	maimai	
-VIIIbit Explorer 	DX	
+VIIIbit_Explorer 	DX	
 BASIC
 	
 6
 		225	88.23%	8	3.13%	4	1.56%	9	3.52%	9	3.52%	255 	188	-	Splash+ (煌)",
 1230	maimai	
-VIIIbit Explorer 	DX	
+VIIIbit_Explorer 	DX	
 ADVANCED
 	
 8
 		351	82.78%	20	4.71%	14	3.3%	29	6.83%	10	2.35%	424 	188	-	Splash+ (煌)
 1230	maimai	
-VIIIbit Explorer 	DX	
+VIIIbit_Explorer 	DX	
 EXPERT
 	
 13
 	13	606	73.45%	75	9.09%	72	8.72%	46	5.57%	26	3.15%	825 	188	Jack	Splash+ (煌)
 1230	maimai	
-VIIIbit Explorer 	DX	
+VIIIbit_Explorer 	DX	
 MASTER
 	
 14+
@@ -262,3 +262,366 @@ BASIC
 	
 3
 		129	80.12%	12	7.45%	6	3.72%	11	6.83%	3	1.86%	161 	188	-	FESTiVAL
+1202	niconico＆ボーカロイド	
+ジレンマ 	DX	
+ADVANCED
+	
+7
+	
+	338	82.43%	16	3.9%	18	4.39%	23	5.6%	15	3.65%	410 	188	-	FESTiVAL
+1202	niconico＆ボーカロイド	
+ジレンマ 	DX	
+EXPERT
+	
+10
+	
+10.2
+	446	72.99%	43	7.03%	27	4.41%	45	7.36%	50	8.18%	611 	188	翠楼屋	FESTiVAL
+1202	niconico＆ボーカロイド	
+ジレンマ 	DX	
+MASTER
+	
+12+
+	
+12.9
+	623	71.28%	78	8.92%	80	9.15%	66	7.55%	27	3.08%	874 	188	ロシェ＠ペンギン	FESTiVAL
+1201	niconico＆ボーカロイド	
+アニマル 	DX	
+BASIC
+	
+3
+	
+	125	72.25%	22	12.71%	4	2.31%	20	11.56%	2	1.15%	173 	188	-	FESTiVAL
+1201	niconico＆ボーカロイド	
+アニマル 	DX	
+ADVANCED
+	
+7+
+	
+	371	85.48%	24	5.52%	9	2.07%	20	4.6%	10	2.3%	434 	188	-	FESTiVAL
+1201	niconico＆ボーカロイド	
+アニマル 	DX	
+EXPERT
+	
+10+
+	
+10.8
+	473	69.76%	72	10.61%	8	1.17%	42	6.19%	83	12.24%	678 	188	カマボコ君	FESTiVAL
+1201	niconico＆ボーカロイド	
+アニマル 	DX	
+MASTER
+	
+13
+	
+13.1
+	564	59.93%	53	5.63%	103	10.94%	139	14.77%	82	8.71%	941 	188	Redarrow	FESTiVAL
+1198	オンゲキ＆CHUNITHM	
+蜘蛛の糸 	DX	
+BASIC
+	
+5
+	
+	173	77.23%	14	6.25%	9	4.01%	20	8.92%	8	3.57%	224 	180	-	FESTiVAL
+1198	オンゲキ＆CHUNITHM	
+蜘蛛の糸 	DX	
+ADVANCED
+	
+8+
+	
+	274	75.27%	27	7.41%	9	2.47%	46	12.63%	8	2.19%	364 	180	-	FESTiVAL
+1198	オンゲキ＆CHUNITHM	
+蜘蛛の糸 	DX	
+EXPERT
+	
+12+
+	
+12.8
+	447	64.04%	92	13.18%	26	3.72%	38	5.44%	95	13.61%	698 	180	翠楼屋	FESTiVAL
+1198	オンゲキ＆CHUNITHM	
+蜘蛛の糸 	DX	
+MASTER
+	
+14
+	
+14.0
+	829	78.8%	67	6.36%	28	2.66%	93	8.84%	35	3.32%	1052 	180	小鳥遊さん×アミノハバキリ	FESTiVAL
+1197	maimai	
+分解収束テイル 	DX	
+BASIC
+	
+3
+	
+	115	69.69%	15	9.09%	8	4.84%	21	12.72%	6	3.63%	165 	186	-	FESTiVAL
+1197	maimai	
+分解収束テイル 	DX	
+ADVANCED
+	
+7+
+	
+	300	76.14%	46	11.67%	9	2.28%	23	5.83%	16	4.06%	394 	186	-	FESTiVAL
+1197	maimai	
+分解収束テイル 	DX	
+EXPERT
+	
+11
+	
+11.0
+	485	72.49%	52	7.77%	40	5.97%	64	9.56%	28	4.18%	669 	186	翠楼屋	FESTiVAL
+1197	maimai	
+分解収束テイル 	DX	
+MASTER
+	
+13+
+	
+13.7
+	644	60.98%	66	6.25%	111	10.51%	173	16.38%	62	5.87%	1056 	186	ロシアンブラック	FESTiVAL
+1196	maimai	
+[X]
+	DX	
+BASIC
+	
+5
+	
+	134	66.66%	12	5.97%	9	4.47%	20	9.95%	26	12.93%	201 	162	-	FESTiVAL
+1196	maimai	
+[X]
+	DX	
+ADVANCED
+	
+8
+	
+	267	73.35%	48	13.18%	18	4.94%	23	6.31%	8	2.19%	364 	162	-	FESTiVAL
+1196	maimai	
+[X]
+	DX	
+EXPERT
+	
+12
+	
+12.0
+	444	70.14%	68	10.74%	54	8.53%	57	9%	10	1.57%	633 	162	Jack	FESTiVAL
+1196	maimai	
+[X]
+	DX	
+MASTER
+	
+14
+	
+14.0
+	628	62.86%	62	6.2%	109	10.91%	111	11.11%	89	8.9%	999 	162	翠楼屋	FESTiVAL
+1195	maimai	
+Tricolor⁂circuS
+	DX	
+BASIC
+	
+4
+	
+	125	76.21%	14	8.53%	3	1.82%	18	10.97%	4	2.43%	164 	180	-	FESTiVAL
+1195	maimai	
+Tricolor⁂circuS
+	DX	
+ADVANCED
+	
+7
+	
+	219	73.48%	27	9.06%	12	4.02%	33	11.07%	7	2.34%	298 	180	-	FESTiVAL
+1195	maimai	
+Tricolor⁂circuS
+	DX	
+EXPERT
+	
+10+
+	
+	355	73.04%	54	11.11%	31	6.37%	37	7.61%	9	1.85%	486 	180	Jack	FESTiVAL
+1195	maimai	
+Tricolor⁂circuS
+	DX	
+MASTER
+	
+13+
+	
+13.9
+	624	67.53%	68	7.35%	66	7.14%	111	12.01%	55	5.95%	924 	180	ネコトリサーカス団	FESTiVAL
+1194	maimai	
+Rainbow_Rush_Story
+	DX	
+BASIC
+	
+4
+	
+	145	83.81%	10	5.78%	7	4.04%	8	4.62%	3	1.73%	173 	200	-	FESTiVAL
+1194	maimai	
+Rainbow_Rush_Story
+	DX	
+ADVANCED
+	
+8
+	
+	303	83.7%	23	6.35%	12	3.31%	9	2.48%	15	4.14%	362 	200	-	FESTiVAL
+1194	maimai	
+Rainbow_Rush_Story
+	DX	
+EXPERT
+	
+10
+	
+	356	75.1%	18	3.79%	34	7.17%	42	8.86%	24	5.06%	474 	200	Jack	FESTiVAL
+1194	maimai	
+Rainbow_Rush_Story
+	DX	
+MASTER
+	
+13+
+	
+13.8
+	629	69.57%	38	4.2%	111	12.27%	64	7.07%	62	6.85%	904 	200	じゃこレモン	FESTiVAL
+1193	maimai	
+ホシシズク
+	DX	
+BASIC
+	
+4
+	
+	165	83.75%	16	8.12%	4	2.03%	8	4.06%	4	2.03%	197 	182	-	FESTiVAL
+1193	maimai	
+ホシシズク
+	DX	
+ADVANCED
+	
+7+
+	
+	349	84.7%	18	4.36%	15	3.64%	18	4.36%	12	2.91%	412 	182	-	FESTiVAL
+1193	maimai	
+ホシシズク
+	DX	
+EXPERT
+	
+10
+	
+	500	74.96%	41	6.14%	24	3.59%	81	12.14%	21	3.14%	667 	182	Jack	FESTiVAL
+1193	maimai	
+ホシシズク
+	DX	
+MASTER
+	
+12+
+	
+12.9
+	578	66.66%	35	4.03%	125	14.41%	65	7.49%	64	7.38%	867 	182	隅田川星人	FESTiVAL
+1192	オンゲキ＆CHUNITHM	
+Transcend_Lights 	DX	
+BASIC
+	
+4
+	
+	126	81.29%	5	3.22%	6	3.87%	14	9.03%	4	2.58%	155 	70	-	UNiVERSE+ (星)
+1192	オンゲキ＆CHUNITHM	
+Transcend_Lights 	DX	
+ADVANCED
+	
+7
+	
+	251	88.07%	19	6.66%	2	0.7%	9	3.15%	4	1.4%	285 	70	-	UNiVERSE+ (星)
+1192	オンゲキ＆CHUNITHM	
+Transcend_Lights 	DX	
+EXPERT
+	
+11+
+	
+	240	65.57%	40	10.92%	55	15.02%	14	3.82%	17	4.64%	366 	70	翠楼屋	UNiVERSE+ (星)
+1192	オンゲキ＆CHUNITHM	
+Transcend_Lights 	DX	
+MASTER
+	
+13+
+	
+13.7
+	442	72.57%	8	1.31%	119	19.54%	25	4.1%	15	2.46%	609 	70	はっぴー	UNiVERSE+ (星)
+1191	オンゲキ＆CHUNITHM	
+エータ・ベータ・イータ 	DX	
+BASIC
+	
+6
+	
+	263	85.11%	13	4.2%	4	1.29%	24	7.76%	5	1.61%	309 	186	-	UNiVERSE+ (星)
+1191	オンゲキ＆CHUNITHM	
+エータ・ベータ・イータ 	DX	
+ADVANCED
+	
+7+
+	
+	314	80.3%	28	7.16%	22	5.62%	20	5.11%	7	1.79%	391 	186	-	UNiVERSE+ (星)
+1191	オンゲキ＆CHUNITHM	
+エータ・ベータ・イータ 	DX	
+EXPERT
+	
+12
+	
+12.4
+	494	75.53%	78	11.92%	39	5.96%	20	3.05%	23	3.51%	654 	186	Jack	UNiVERSE+ (星)
+1191	オンゲキ＆CHUNITHM	
+エータ・ベータ・イータ 	DX	
+MASTER
+	
+14
+	
+14.2
+	857	81.3%	29	2.75%	29	2.75%	66	6.26%	73	6.92%	1054 	186	チャン@DP皆伝	UNiVERSE+ (星)
+1190	オンゲキ＆CHUNITHM	
+See_The_Light 	DX	
+BASIC
+	
+3
+	
+	132	87.41%	4	2.64%	4	2.64%	8	5.29%	3	1.98%	151 	150	-	UNiVERSE+ (星)
+1190	オンゲキ＆CHUNITHM	
+See_The_Light 	DX	
+ADVANCED
+	
+6
+	
+	196	76.56%	24	9.37%	10	3.9%	24	9.37%	2	0.78%	256 	150	-	UNiVERSE+ (星)
+1190	オンゲキ＆CHUNITHM	
+See_The_Light 	DX	
+EXPERT
+	
+11
+	
+	389	76.27%	40	7.84%	12	2.35%	14	2.74%	55	10.78%	510 	150	翠楼屋	UNiVERSE+ (星)
+1190	オンゲキ＆CHUNITHM	
+See_The_Light 	DX	
+MASTER
+	
+13+
+	
+13.8
+	541	67.96%	24	3.01%	42	5.27%	134	16.83%	55	6.9%	796 	150	Jack	UNiVERSE+ (星)
+1189	オンゲキ＆CHUNITHM	
+撩乱乙女†無双劇 	DX	
+BASIC
+	
+4
+	
+	159	81.12%	3	1.53%	4	2.04%	23	11.73%	7	3.57%	196 	165	-	UNiVERSE+ (星)
+1189	オンゲキ＆CHUNITHM	
+撩乱乙女†無双劇 	DX	
+ADVANCED
+	
+6
+	
+	252	81.55%	13	4.2%	14	4.53%	28	9.06%	2	0.64%	309 	165	-	UNiVERSE+ (星)
+1189	オンゲキ＆CHUNITHM	
+撩乱乙女†無双劇 	DX	
+EXPERT
+	
+11+
+	
+	495	71.22%	58	8.34%	54	7.76%	8	1.15%	80	11.51%	695 	165	小鳥遊さん	UNiVERSE+ (星)
+1189	オンゲキ＆CHUNITHM	
+撩乱乙女†無双劇 	DX	
+MASTER
+	
+13
+	
+13.4
+	533	61.76%	63	7.3%	127	14.71%	32	3.7%	108	12.51%	863 	165	Redarrow	UNiVERSE+ (星)
