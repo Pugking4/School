@@ -1,3 +1,4 @@
+import zetaFormat2
 import os
 import re
 _RE_COMBINE_WHITESPACE = re.compile(r"\s+")
@@ -24,11 +25,13 @@ with open("Misc\\zeta_final_temp.txt", 'w',encoding="utf8") as file_object1:
 		
 		file_object1.write(f"{unformatted_list[x:index_dx[i]-3]}\n")
 		x = index_dx[i]-3
-
 y = 6
+
+
 with open("Misc\\zeta_final.txt", 'w',encoding="utf8") as file_object_w, open("Misc\\zeta_final_temp.txt", 'r',encoding="utf8") as file_object_r:
 	lines = file_object_r.readlines()
 	#print(lines)
+
 	for lines in lines:
 		res = lines.strip('][').replace("'","").replace("\n","").replace("]","").split(', ')
 		del res[y:-1]
