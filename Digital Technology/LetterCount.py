@@ -1,3 +1,4 @@
+#Challenge 3
 #userInput = input("Input: ")
 userInput = "aabcccaaaa"
 count = 0

@@ -1,3 +1,4 @@
+#Challenge 2
 userInput = input("Input: ")
 newList = []
 userList = list(userInput)
