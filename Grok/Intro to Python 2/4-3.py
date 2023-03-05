@@ -1,20 +1,13 @@
 eng_list = input("Line: ").split()
-
 #eng_list = ["English", "Tim", "Nicky", "James", "Tara", "John", "Ben"]
-
 del eng_list[0]
 other_input = input("Line: ")
 eng_set = set(eng_list)
 in_set = set()
-
 final_set = set()
-
 master = []
 temp_list = []
-
-
 #master = [["Nicky", "Tim"],["Tim", "John"]]
-
 
 while other_input:
     temp_list = other_input.split()
